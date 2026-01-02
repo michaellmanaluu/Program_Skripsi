@@ -1,0 +1,7 @@
+aplikasi,fold,accuracy,precision_macro,recall_macro,f1_macro
+Shopee,1,0.6768,0.2256,0.3333,0.2691
+Shopee,2,0.6768,0.2256,0.3333,0.2691
+Shopee,3,0.6837,0.2279,0.3333,0.2707
+Shopee,4,0.6735,0.2245,0.3333,0.2683
+Shopee,5,0.6939,0.4187,0.4247,0.4107
+Shopee,Rata-rata,0.6809,0.2645,0.3516,0.2976

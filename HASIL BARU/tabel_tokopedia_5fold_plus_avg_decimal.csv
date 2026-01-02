@@ -1,0 +1,7 @@
+aplikasi,fold,accuracy,precision_macro,recall_macro,f1_macro
+Tokopedia,1,0.5816,0.3887,0.5211,0.4445
+Tokopedia,2,0.4898,0.3271,0.4404,0.3743
+Tokopedia,3,0.5612,0.3756,0.4990,0.4271
+Tokopedia,4,0.5816,0.3883,0.5211,0.4442
+Tokopedia,5,0.6020,0.4035,0.5495,0.4625
+Tokopedia,Rata-rata,0.5633,0.3766,0.5062,0.4305

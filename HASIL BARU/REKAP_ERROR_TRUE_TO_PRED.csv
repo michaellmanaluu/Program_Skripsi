@@ -1,0 +1,17 @@
+true,pred,jumlah,aplikasi
+netral,negatif,63,Tokopedia
+netral,positif,63,Tokopedia
+negatif,positif,50,Tokopedia
+positif,negatif,38,Tokopedia
+negatif,positif,92,Shopee
+netral,positif,59,Shopee
+positif,negatif,5,Shopee
+netral,negatif,1,Shopee
+netral,positif,46,Lazada
+positif,negatif,45,Lazada
+negatif,positif,43,Lazada
+netral,negatif,14,Lazada
+netral,positif,72,Blibli
+negatif,positif,60,Blibli
+positif,negatif,36,Blibli
+netral,negatif,18,Blibli

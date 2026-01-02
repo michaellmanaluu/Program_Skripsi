@@ -1,0 +1,7 @@
+aplikasi,fold,accuracy,precision_macro,recall_macro,f1_macro
+Lazada,1,0.7071,0.4712,0.5288,0.4980
+Lazada,2,0.6364,0.4177,0.4820,0.4469
+Lazada,3,0.6970,0.4567,0.5140,0.4833
+Lazada,4,0.7551,0.5025,0.5586,0.5278
+Lazada,5,0.7041,0.4642,0.5278,0.4939
+Lazada,Rata-rata,0.6999,0.4624,0.5222,0.4900

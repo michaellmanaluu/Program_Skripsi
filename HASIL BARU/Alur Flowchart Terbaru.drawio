@@ -1,0 +1,57 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.7">
+  <diagram name="Halaman-1" id="--RZgV7enUZODO-UueQw">
+    <mxGraphModel dx="1665" dy="829" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-q5xyxEiUic74-s0o-JG-1" edge="1" parent="1" source="-q5xyxEiUic74-s0o-JG-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="-q5xyxEiUic74-s0o-JG-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-q5xyxEiUic74-s0o-JG-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Start" vertex="1">
+          <mxGeometry height="80" width="120" x="110" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-q5xyxEiUic74-s0o-JG-3" edge="1" parent="1" source="-q5xyxEiUic74-s0o-JG-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="-q5xyxEiUic74-s0o-JG-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-q5xyxEiUic74-s0o-JG-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Data Collection" vertex="1">
+          <mxGeometry height="60" width="120" x="110" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="-q5xyxEiUic74-s0o-JG-7" edge="1" parent="1" source="-q5xyxEiUic74-s0o-JG-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-q5xyxEiUic74-s0o-JG-8" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" value="Dataset" vertex="1">
+          <mxGeometry height="80" width="120" x="110" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="-q5xyxEiUic74-s0o-JG-9" edge="1" parent="1" source="-q5xyxEiUic74-s0o-JG-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="-q5xyxEiUic74-s0o-JG-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-q5xyxEiUic74-s0o-JG-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Data Labelling" vertex="1">
+          <mxGeometry height="60" width="120" x="110" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="-q5xyxEiUic74-s0o-JG-11" edge="1" parent="1" source="-q5xyxEiUic74-s0o-JG-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="-q5xyxEiUic74-s0o-JG-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-q5xyxEiUic74-s0o-JG-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Data Pre-Processing" vertex="1">
+          <mxGeometry height="60" width="120" x="110" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="-q5xyxEiUic74-s0o-JG-13" edge="1" parent="1" source="-q5xyxEiUic74-s0o-JG-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="-q5xyxEiUic74-s0o-JG-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-q5xyxEiUic74-s0o-JG-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Pelatihan Model" vertex="1">
+          <mxGeometry height="60" width="120" x="110" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="-q5xyxEiUic74-s0o-JG-15" edge="1" parent="1" source="-q5xyxEiUic74-s0o-JG-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="-q5xyxEiUic74-s0o-JG-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-q5xyxEiUic74-s0o-JG-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Evaluasi Model" vertex="1">
+          <mxGeometry height="60" width="120" x="110" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="-q5xyxEiUic74-s0o-JG-17" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Finish" vertex="1">
+          <mxGeometry height="80" width="120" x="110" y="760" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
